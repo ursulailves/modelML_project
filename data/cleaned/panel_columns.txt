@@ -226,10 +226,8 @@
 226. working_age_pop
 227. unemployment_rate
 228. avg_household_size
-229. year_std
-230. log_total_population_std
-231. share_non_danish_std
-232. log_income_per_capita_std
-233. unemployment_rate_std
-234. avg_household_size_std
-235. year_std_std
+229. log_total_population_std
+230. share_non_danish_std
+231. log_income_per_capita_std
+232. unemployment_rate_std
+233. avg_household_size_std
