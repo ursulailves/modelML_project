@@ -1,0 +1,7 @@
+# Large model artifacts — too big for GitHub (>100MB)
+data/models_by_district.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
